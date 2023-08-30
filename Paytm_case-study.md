@@ -3,18 +3,24 @@
 
 ## Overview and Origin
 
-* Name of company 
+* Name of company
+  
 Paytm
+
 * When was the company incorporated?
+  
 One97 Communications Ltd, the parent company of Paytm, was incorporated on December 1, 2000.
 
 * Who are the founders of the company?
+  
 One97 Communications Ltd, was founded by Vijay Shekhar Sharma. He is the main and primary founder of the company.
 
 * How did the idea for the company (or project) come about?
+  
 Paytm tackles the challenge of accessible and secure financial services in India. It offers a holistic digital platform for diverse transactions like bill payments, mobile recharges, and money transfers. This empowers unbanked and underbanked individuals, bridging financial gaps through smartphones and fostering seamless digital transactions in an evolving economy.
 
 * How is the company funded? How much funding have they received?
+  
 In the dawn of the new millennium, Vijay Shekhar Sharma embarked on a mission to revolutionize India's mobile services. Armed with a personal loan of 8,00,000 rupees ($15,000), he founded One97 Communications Ltd. His foresight recognized the burgeoning potential of mobile technology in delivering convenient solutions to the masses.
 In 2007, SAIF Partners injected $10 million, propelling early growth. Alibaba Group and Ant Financial's $575 million investment in 2015 ignited exponential expansion and expertise infusion.
 
@@ -27,16 +33,19 @@ As of 2023, market fluctuations prompted a revaluation to $6.55 billion USD, und
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+  
 The Problem: India faced challenges with traditional cash transactions and limited banking access. This presented an obstacle to financial inclusion and seamless transactions, especially for unbanked and underbanked individuals.
 
 The Solution: Paytm emerged as a beacon of convenience, security, and inclusivity in the Indian financial landscape. The company provided a comprehensive digital platform that facilitated a wide spectrum of financial activities, from mobile recharges and bill payments to peer-to-peer transfers. Through smartphones, Paytm bridged the gap for those excluded from conventional banking, offering vital financial services in a rapidly digitizing economy.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+  
 Intended Customers: Paytm catered to a diverse clientele encompassing urban and rural populations, tech-savvy individuals, small businesses, and those previously underserved by traditional banks.
 Market Size: With India's population exceeding 1.3 billion and smartphone adoption on the rise, the potential market for Paytm's services was immense. Traditional banking services were inadequate for a substantial portion of this population, creating a substantial opportunity for digital financial solutions.
 User Base: As of September 2021, Paytm reported an impressive user base of over 333 million individuals, establishing itself as one of India's largest digital payment platforms.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+  
 Unparalleled Advantages over Competitors
 Integrated Ecosystem: Paytm offered a holistic solution beyond basic digital payments. Its platform seamlessly blended mobile recharges, bill payments, money transfers, and a digital wallet. This holistic approach simplified users' financial management.
 
@@ -54,6 +63,7 @@ Market Leadership: Paytm's trailblazing initiatives positioned it as a market le
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+  
 Paytm harnessed a suite of technologies to drive its services:
 
 Mobile App Development: Native and cross-platform frameworks ensured a seamless user experience across Android and iOS devices.
@@ -106,6 +116,7 @@ Digital Identity Verification: Paytm pioneered secure digital identity verificat
 E-commerce Integration: Seamlessly integrating e-commerce and payments, Paytm facilitated transactions during online and offline shopping experiences
 
 * What are the other major companies in this domain?
+  
 In India and around the world, the fintech domain is home to a diverse range of companies that offer various financial technology services. Here are some major fintech companies in India and globally:
 
 Major Companies in the Fintech Landscape
@@ -147,6 +158,7 @@ Chime: A US-based neobank offering fee-free banking services.
 ## Results
 
 * What has been the business impact of this company so far?
+  
 Business Impact:
 
 Digital Payment Adoption: Paytm revolutionized digital payments in India, fostering a shift away from cash transactions through user-friendly mobile apps and QR codes.
@@ -158,6 +170,7 @@ Small Business Empowerment: Enabling small businesses to accept digital payments
 E-commerce Expansion: Venturing into e-commerce diversified Paytm's offerings, contributing to the growth of India's online retail sector.
 
 Creation of a Cashless Ecosystem: Paytm's holistic ecosystem consolidated financial, entertainment, and travel services, facilitating seamless financial management.
+
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -342,7 +355,7 @@ Wallet Security: Strong security safeguards digital assets, instilling confidenc
 
 
 
-# Citation
+# Citations
 1. Annual Report 2023 2023, Paytm India, 9 July. https://paytm.com/document/ir/press-release/fy2023-24/aug/PaytmAnnualReport.pdf
 
 2. paytm.com. (n.d.). Paytm.com - About Us. [online] Available at: https://paytm.com/about-us.
